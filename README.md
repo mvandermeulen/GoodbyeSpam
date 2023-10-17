@@ -1,4 +1,4 @@
-# GoodbyeSpam
+# GoodbyeSpam - Spam Call Mitigation for Asterisk PBX
 This repository contains an Asterisk AGI (Asterisk Gateway Interface) script and an IVR (Interactive Voice Response) system designed to mitigate spam calls and robocalls on a Asterisk PBX by identifying and filtering out unwanted calls before reaching the client.
 
 Features:
