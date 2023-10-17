@@ -1,5 +1,5 @@
 # GoodbyeSpam - Spam Call Mitigation for Asterisk PBX
-GoodbyeSpam is an Asterisk AGI (Asterisk Gateway Interface) script and an IVR (Interactive Voice Response) system designed to mitigate spam calls and robocalls on an Asterisk PBX.
+An Asterisk AGI (Asterisk Gateway Interface) script and IVR (Interactive Voice Response) system was implemented to mitigate spam calls and robocalls on an Asterisk PBX.
 
 ## Features
 - **Blacklist**: The Python AGI script connects to MySQL and immediately hangs up calls from blacklisted callers based on their caller IDs.
