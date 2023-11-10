@@ -1,5 +1,5 @@
 # GoodbyeSpam - Spam Call Mitigation for Asterisk PBX
-An Asterisk AGI (Asterisk Gateway Interface) script and IVR (Interactive Voice Response) system was implemented to mitigate spam calls and robocalls on an Asterisk PBX.
+A security model within Asterisk using MySQL, AGI and IVR system to automatically hang up spam calls before reaching the clients.
 
 ## Features
 - **Blacklist**: A blacklist created in MySQL to store every blacklisted callers using their caller IDs.
